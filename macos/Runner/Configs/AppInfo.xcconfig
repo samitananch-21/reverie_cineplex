@@ -1,0 +1,5 @@
+PRODUCT_NAME = reverie_cineplex
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.reverieCineplex
+
+PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
